@@ -29,7 +29,7 @@
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": "public "
         }
     },
     "buildpacks": [
